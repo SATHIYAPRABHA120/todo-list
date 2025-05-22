@@ -1,4 +1,4 @@
-To-Do List Project
+**To-Do List Project**
 This is a full-stack To-Do List app built using FastAPI for the backend and React for the frontend.
 The project includes:
 •	CRUD operations for to-do lists and tasks
@@ -6,7 +6,7 @@ The project includes:
 •	Simple frontend UI built with React
 It covers all the essential tools to build, run, and deploy a functional to-do list application.
 ___________________________________________
-Tools Used
+**Tools Used**
 •	FastAPI — Backend web framework for building APIs
 •	React — Frontend library for building UI
 •	MongoDB Atlas — Cloud-hosted NoSQL database to store user and task data
@@ -16,17 +16,17 @@ Tools Used
 •	NGINX — Reverse proxy setup to route frontend and backend
 •	Uvicorn — ASGI server to run FastAPI app
 ___________________________________________
-Tech Stack
+**Tech Stack**
 •	Python
 •	JavaScript (React)
 •	MongoDB (NoSQL)
 ___________________________________________
-How to Run Locally :
+**How to Run Locally :**
 Prerequisites
 •	Docker and Docker Compose installed
 •	MongoDB Atlas account set up with a cluster and connection URI ready
 ___________________________________________
-Steps :
+**Steps :**
 1.	Clone the repo
 2.	Configure environment variables : Create a .env file (or update your Docker environment variables) with your MongoDB Atlas URI, for example:
 MONGODB_URI="mongodb+srv://username:password@cluster0.is1woh5.mongodb.net/database_name?retryWrites=true&w=majority&tls=true&appName=Cluster0"
