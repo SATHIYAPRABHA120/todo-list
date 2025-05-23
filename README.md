@@ -26,7 +26,8 @@ It covers all the essential tools to build, run, and deploy a functional to-do l
 ## Tech Stack
 - **Python**  
 - **JavaScript (React)**  
-- **MongoDB (NoSQL)**  
+- **MongoDB (NoSQL)**
+- **Docker**
 
 ---
 
