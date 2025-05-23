@@ -44,3 +44,6 @@ MONGODB_URI="mongodb+srv://username:password@cluster0.is1woh5.mongodb.net/databa
 4.	Access the frontend : http://localhost:3000/
 5.	API docs : http://localhost:8001/docs
 6.	To Remove project containers, volumes, and orphans : docker-compose down --volumes --remove-orphans
+   
+---
+**Video Demonstration :** https://drive.google.com/file/d/14zZDElZXpb-BZIt-isz9XKseBSfev9hx/view?usp=sharing
