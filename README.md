@@ -1,30 +1,40 @@
-**To-Do List Using FastAPI**
-This is a full-stack To-Do List app built using FastAPI for the backend and React for the frontend.
-The project includes:
-•	CRUD operations for to-do lists and tasks
-•	Schema validation
-•	Simple frontend UI built with React
+# To-Do List Using FastAPI
+
+This is a full-stack To-Do List app built using **FastAPI** for the backend and **React** for the frontend.
+
+## Features
+- CRUD operations for to-do lists and tasks  
+- Schema validation  
+- Simple frontend UI built with React  
+
 It covers all the essential tools to build, run, and deploy a functional to-do list application.
-___________________________________________
-**Tools Used**
-•	FastAPI — Backend web framework for building APIs
-•	React — Frontend library for building UI
-•	MongoDB Atlas — Cloud-hosted NoSQL database to store user and task data
-•	Motor  — Async MongoDB driver for Python 
-•	Axios — HTTP client for frontend API requests
-•	Docker & Docker Compose — Containerizing frontend, backend, and database
-•	NGINX — Reverse proxy setup to route frontend and backend
-•	Uvicorn — ASGI server to run FastAPI app
-___________________________________________
-**Tech Stack**
-•	Python
-•	JavaScript (React)
-•	MongoDB (NoSQL)
-___________________________________________
-**How to Run Locally :**
-Prerequisites
-•	Docker and Docker Compose installed
-•	MongoDB Atlas account set up with a cluster and connection URI ready
+
+---
+
+## Tools Used
+- **FastAPI** — Backend web framework for building APIs  
+- **React** — Frontend library for building UI  
+- **MongoDB Atlas** — Cloud-hosted NoSQL database to store user and task data  
+- **Motor** — Async MongoDB driver for Python  
+- **Axios** — HTTP client for frontend API requests  
+- **Docker & Docker Compose** — Containerizing frontend, backend, and database  
+- **NGINX** — Reverse proxy setup to route frontend and backend  
+- **Uvicorn** — ASGI server to run FastAPI app  
+
+---
+
+## Tech Stack
+- **Python**  
+- **JavaScript (React)**  
+- **MongoDB (NoSQL)**  
+
+---
+
+## How to Run Locally
+
+### Prerequisites
+- Docker and Docker Compose installed  
+- MongoDB Atlas account set up with a cluster and connection URI ready 
 ___________________________________________
 **Steps :**
 1.	Clone the repo
